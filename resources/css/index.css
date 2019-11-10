@@ -1,0 +1,31 @@
+.cost {
+  color: blue;
+  font-family: Helvetica;
+  font-weight: bold;
+}
+#main_title {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+  background-image: url("../images/pattern.jpeg");
+
+}
+#main_title2 {
+  background-color: mediumspringgreen;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+
+}
+#main_title3 {
+  background-color:lightcoral;
+}
+#main_title4 {
+  background-color:skyblue;
+}
+p {
+  font-family: Helvetica;
+}
